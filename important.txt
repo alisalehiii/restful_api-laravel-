@@ -1,0 +1,9 @@
+Hello guys;
+
+only for this test api you need one extension name is(REST Client);
+
+after install extension you create new file in project (test.http)
+
+and you can now starting and residue helps in the git files.
+
+thanx alot.
